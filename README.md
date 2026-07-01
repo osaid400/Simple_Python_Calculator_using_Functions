@@ -1,4 +1,4 @@
-# Simple Python Calculator Using Functions
+# Simple Python Calculator
 
 This is a simple command-line calculator made with Python functions.
 
